@@ -146,7 +146,7 @@ Thanks to its contextual understanding of language, DistilBERT was the one in th
 ## 1. Clone the repository
 
 ```bash
-git clone https://github.com/BrailleNshuti/Project-NLP-DLBAIPNLP01-Sentiment-Analysis-of-Movie-Reviews
+git clone https://github.com/BrailleNshuti/imdb-sentiment-analysis-nlp
 ```
 
 ## 2. Open the notebook
@@ -236,4 +236,4 @@ IU International University of Applied Sciences
 ---
 
 #  Repository Link:
-https://github.com/BrailleNshuti/Project-NLP-DLBAIPNLP01-Sentiment-Analysis-of-Movie-Reviews
+https://github.com/BrailleNshuti/imdb-sentiment-analysis-nlp
